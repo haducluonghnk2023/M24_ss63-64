@@ -1,0 +1,20 @@
+{
+    "post":[
+        {
+            "id": 1,
+            "title": "Post 1",
+            "image":"",
+            "content": "Content 1",
+            "created_at":"4/3/2024",
+            "status": "Đã xuất bản"
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "image":"",
+            "content": "Content 2",
+            "created_at":"4/3/2024",
+            "status": "Đã xuất bản"
+        }
+    ]
+}
